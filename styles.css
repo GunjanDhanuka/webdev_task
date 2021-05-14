@@ -107,6 +107,12 @@ nav ul .search-icon .icon span{
     padding: 20px;
 }
 
+.s1 .post-preview{
+    background-color: whitesmoke;
+    padding: 15px;
+
+}
+
 .s2 {
     background-color: #1B4332;
     border-bottom:1px solid #1B4332;
@@ -127,7 +133,7 @@ nav ul .search-icon .icon span{
     justify-content: center;
 }
 
-.s1 .post-preview{
+.s2 .post-preview{
     background-color: whitesmoke;
     padding: 15px;
 
